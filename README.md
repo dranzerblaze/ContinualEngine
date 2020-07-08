@@ -1,2 +1,3 @@
-# ContinualEngine
-Contains the projects made by me during my intern at Continual Engine
+# Automation Scripts
+
+Some automation scripts written for Image Generations.
